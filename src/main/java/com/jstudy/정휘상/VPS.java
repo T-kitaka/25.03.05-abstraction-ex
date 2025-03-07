@@ -1,3 +1,4 @@
+package com.jstudy.정휘상;
 public class VPS {
     private boolean isRunning;
 
